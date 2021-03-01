@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-saikrishna naidu
-=======
-narina saikrishna naidu
->>>>>>> dev
